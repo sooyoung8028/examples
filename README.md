@@ -65,3 +65,9 @@ ch3-16: apply 메서드
 ch3-17: call/apply 메서드의 활용 1-1) 유사배열객체에 배열 메서드를 적용
 ch3-18: call/apply 메서드의 활용 1-2)arguments, NodeList 에 배열 메서드를 적용
 ch3-19: call/apply 메서드의 활용 1-3)문자열에 배열 메서드 적용 예시
+ch3-20: call/apply 메서드의 활용 1-4)ES6의 Array, from 메서드
+ch3-21: call/apply 메서드의 활용 2)생성자 내부에서 다른 생성자를 호출
+ch3-22: call/apply 메서드의 활용 3-1)최대/최솟값을 구하는 코드를 직접 구현
+ch3-23: call/apply 메서드의 활용 3-2) 여러 인수를 받는 메서드 apply에 적용
+ch3-24: call/apply 메서드의 활용 3-3)ES6의 펼치기 연산자 활용
+ch3-25: bind 메서드- this 지정과 부분 적용 함수 구현
