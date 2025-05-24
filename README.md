@@ -71,3 +71,19 @@ ch3-22: call/apply 메서드의 활용 3-1)최대/최솟값을 구하는 코드�
 ch3-23: call/apply 메서드의 활용 3-2) 여러 인수를 받는 메서드 apply에 적용
 ch3-24: call/apply 메서드의 활용 3-3)ES6의 펼치기 연산자 활용
 ch3-25: bind 메서드- this 지정과 부분 적용 함수 구현
+
+
+
+4. Abstract of Chapter4
+
+ch4-1: 콜백 함수 예제(1-1)setInterval
+ch4-2: 콜백 함수 예제(1-2)setInterval
+ch4-3: 콜백 함수 예제(2-1)Array.prototype.map
+ch4-4: 콜백 함수 예제(2-2)Array.prototype.map-인자의 순서를 임의로 바꾸어 사용한 경우
+ch4-5: 콜백 함수 예제(2-3)Array.prototype.map-구현
+ch4-6: 콜백 함수 내부에서의 this
+ch4-7:메서드를 콜백 함수로 전달한 경우
+ch4-8: 콜백 함수 내부의 this 다른 값을 바인딩하는 방법(1)-전통적인 방식
+ch4-9: 콜백 함수 내부에서 this를 사용하지 않는 경우
+ch4-10: 예제 4-8의 func 함수 재활용
+ch4-11: 콜백 함수 내부의 this에 다른 값을 바인딩하는 방법(2)-bind메서드 활용
