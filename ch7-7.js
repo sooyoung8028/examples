@@ -12,3 +12,6 @@ var Square = function(width) {
     Rectangle.call(this, width, width); 
 };
 Square.prototype = new Rectangle();
+
+var sq = new Square(5);
+console.log(sq.getArea()); //25
