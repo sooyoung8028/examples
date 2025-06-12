@@ -6,4 +6,3 @@ Person.prototype.getName = function() {
 };
 
 
-//Person.prototype
