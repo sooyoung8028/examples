@@ -28,7 +28,7 @@ var extendClass = function(SuperClass, SubClass, subMethods) {
     Rectangle.prototype.getArea = function() {
         return this.width * this.height;
     };
-    var Square = extendClass{
+    var Square = extendClass(
         Rectangle, 
         function(width) {
            this.super(width, width);
@@ -37,8 +37,7 @@ var extendClass = function(SuperClass, SubClass, subMethods) {
             console.log('size is :', this.super('getArea')());
          }
         }
-    };
+    );
 var sq = new Square(10);
 sq.getArea();
 console.log(sq.super('getArea')()); // 100
-
