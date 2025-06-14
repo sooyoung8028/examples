@@ -110,3 +110,17 @@ ch5-15.js: 부분 적용 함수 구현(2)
 ch5-16.js: 부분 적용 함수 - 디바운스
 ch5-17.js: 커링 함수(1)
 ch5-18.js: 커링 함수(2)
+
+
+6. Abstract of Chapter6
+	
+ch6-1: Person.prototype
+ch6-2: prototype과 _proto_
+ch6-3: constructor 프로퍼티
+ch6-4: constructor 변경
+ch6-5: 다양한 constructor 접근 방법
+ch6-6: 메서드 오버라이드
+ch6-7: 배열에서 배열 메서드 및 객체 메서드 실행
+ch6-8: 메서드 오버라이드와 프로토타입 체이닝
+ch6-9: Object.prototype 에 추가한 메서드에의 접근
+ch6-10: Grade 생성자 함수와 인스턴스
